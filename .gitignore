@@ -1,0 +1,7 @@
+.docker/mydata
+.docker/mgdata
+.docker/pgdata
+.docker/pgadmin
+.vscode
+containers
+docker-compose.yaml
